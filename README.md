@@ -1,3 +1,8 @@
+![Build](https://github.com/YOUR_USERNAME/secure-github-actions-template/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/YOUR_USERNAME/secure-github-actions-template)
+![Template](https://img.shields.io/badge/GitHub-Template-blue)
+
+
 # 🔐 Secure GitHub Actions Workflow Template
 
 This repository is a **starter template for secure GitHub Actions CI/CD pipelines** — perfect for developers who care about clean builds, secure permissions, and reusable infrastructure.
