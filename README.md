@@ -12,3 +12,22 @@ This repository is a **starter template for secure GitHub Actions CI/CD pipeline
 
 ## 📁 Folder Structure
 
+.github/
+├── workflows/
+│ └── ci.yml # Main CI pipeline
+└── CODEOWNERS # Review enforcement
+.gitignore
+README.md
+SECURITY.md
+
+
+## 🔧 Usage
+
+Click **[Use this template](https://github.com/YOUR_USERNAME/secure-github-actions-template/generate)** to create your own repo based on this setup.
+
+## 📜 License
+
+MIT — free to use, modify, and share.
+
+
+🔄 Replace YOUR_USERNAME in the "Use this template" link with your actual GitHub handle.
