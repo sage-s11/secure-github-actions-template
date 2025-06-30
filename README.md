@@ -28,7 +28,8 @@ SECURITY.md
 
 ## 🔧 Usage
 
-Click **[Use this template](https://github.com/YOUR_USERNAME/secure-github-actions-template/generate)** to create your own repo based on this setup.
+Click **[Use this template](https://github.com/sage-s11/secure-github-actions-template/generate
+)** to create your own repo based on this setup.
 
 ## 📜 License
 
